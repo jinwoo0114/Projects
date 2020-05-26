@@ -5,7 +5,7 @@
 
 "Political Support Levels" is an R script that measures the political support level of various demographics for Democrats.
 
-* [Measuring Political Support Among Democrats](https://github.com/jinwoo0114/Projects/blob/master/Political_Support_Levels.R)
+* [Measuring Political Support Among Democrats](https://jinwoo0114.github.io/Projects/polsupport.html)
 
 
 
